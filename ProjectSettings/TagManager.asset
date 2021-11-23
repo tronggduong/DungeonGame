@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Human
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2607805711
+    locked: 0
+  - name: Tree
+    uniqueID: 1474321285
+    locked: 0
+  - name: Items
+    uniqueID: 255798325
+    locked: 0
+  - name: Decoration
+    uniqueID: 1773189135
+    locked: 0
+  - name: Human
+    uniqueID: 1741863605
+    locked: 0
+  - name: Weapon
+    uniqueID: 4055873985
+    locked: 0
+  - name: Other
+    uniqueID: 3213446879
+    locked: 0
+  - name: Tree2
+    uniqueID: 808941297
+    locked: 0

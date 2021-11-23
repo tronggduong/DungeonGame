@@ -1,0 +1,2472 @@
+fileFormatVersion: 2
+guid: 7c1f5be8d682b644ba4bd6cac0b7c540
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 84677711654679434
+    second: DungeonMonster_0
+  - first:
+      213: -5372128614077243430
+    second: DungeonMonster_1
+  - first:
+      213: 5508876873047041303
+    second: DungeonMonster_2
+  - first:
+      213: 6504896539351769798
+    second: DungeonMonster_3
+  - first:
+      213: -4376876800772653760
+    second: DungeonMonster_4
+  - first:
+      213: 5179590588601367920
+    second: DungeonMonster_5
+  - first:
+      213: 9006082398637626404
+    second: DungeonMonster_6
+  - first:
+      213: 2320244964668020665
+    second: DungeonMonster_7
+  - first:
+      213: -7397408757930746714
+    second: DungeonMonster_8
+  - first:
+      213: 762027140709373812
+    second: DungeonMonster_9
+  - first:
+      213: 2114642443352177455
+    second: DungeonMonster_10
+  - first:
+      213: 7604803748719354105
+    second: DungeonMonster_11
+  - first:
+      213: 8355879052514297937
+    second: DungeonMonster_12
+  - first:
+      213: 5432439775465560695
+    second: DungeonMonster_13
+  - first:
+      213: -8898067759649803510
+    second: DungeonMonster_14
+  - first:
+      213: -4342542593319459180
+    second: DungeonMonster_15
+  - first:
+      213: -4338202185679070363
+    second: DungeonMonster_16
+  - first:
+      213: -480464325143091694
+    second: DungeonMonster_17
+  - first:
+      213: -5314526543902359728
+    second: DungeonMonster_18
+  - first:
+      213: -8779566078297026330
+    second: DungeonMonster_19
+  - first:
+      213: -8356740110378535488
+    second: DungeonMonster_20
+  - first:
+      213: 3136983013064288806
+    second: DungeonMonster_21
+  - first:
+      213: -3087465292886197150
+    second: DungeonMonster_22
+  - first:
+      213: -1358022714551424726
+    second: DungeonMonster_23
+  - first:
+      213: 2440290493733679776
+    second: DungeonMonster_24
+  - first:
+      213: 6487738721059998614
+    second: DungeonMonster_25
+  - first:
+      213: -8123725899925449747
+    second: DungeonMonster_26
+  - first:
+      213: -1501664101473264172
+    second: DungeonMonster_27
+  - first:
+      213: 7108065951903863971
+    second: DungeonMonster_28
+  - first:
+      213: 7309430338604175104
+    second: DungeonMonster_29
+  - first:
+      213: 6471026576003383081
+    second: DungeonMonster_30
+  - first:
+      213: -4416603804448895346
+    second: DungeonMonster_31
+  - first:
+      213: 7045139324825352346
+    second: DungeonMonster_32
+  - first:
+      213: -750268845347742608
+    second: DungeonMonster_33
+  - first:
+      213: 819155812648036526
+    second: DungeonMonster_34
+  - first:
+      213: 2969155070342184626
+    second: DungeonMonster_35
+  - first:
+      213: 7704135702784881527
+    second: DungeonMonster_36
+  - first:
+      213: -8485372004935038992
+    second: DungeonMonster_37
+  - first:
+      213: -3962985496714297285
+    second: DungeonMonster_38
+  - first:
+      213: 4851329841360522552
+    second: DungeonMonster_39
+  - first:
+      213: -5068906009874125128
+    second: DungeonMonster_40
+  - first:
+      213: 6614359318168344505
+    second: DungeonMonster_41
+  - first:
+      213: -3673804441911086402
+    second: DungeonMonster_42
+  - first:
+      213: -4599770928899275505
+    second: DungeonMonster_43
+  - first:
+      213: -7056291965191357900
+    second: DungeonMonster_44
+  - first:
+      213: 9188467014875656572
+    second: DungeonMonster_45
+  - first:
+      213: 2109164797959233067
+    second: DungeonMonster_46
+  - first:
+      213: -6919836707143036764
+    second: DungeonMonster_47
+  - first:
+      213: -7346383717078685351
+    second: DungeonMonster_48
+  - first:
+      213: 8195850113936889983
+    second: DungeonMonster_49
+  - first:
+      213: 7180769346471156374
+    second: DungeonMonster_50
+  - first:
+      213: 4002057496997617898
+    second: DungeonMonster_51
+  - first:
+      213: 5302525756463332424
+    second: DungeonMonster_52
+  - first:
+      213: -5054505828858526578
+    second: DungeonMonster_53
+  - first:
+      213: 6722147524976436818
+    second: DungeonMonster_54
+  - first:
+      213: 3252710548564018136
+    second: DungeonMonster_55
+  - first:
+      213: -5032239850077432478
+    second: DungeonMonster_56
+  - first:
+      213: -6030078782729970533
+    second: DungeonMonster_57
+  - first:
+      213: -1697424278043056661
+    second: DungeonMonster_58
+  - first:
+      213: 3481360111979768487
+    second: DungeonMonster_59
+  - first:
+      213: 5592745132462486815
+    second: DungeonMonster_60
+  - first:
+      213: 1560805434558331874
+    second: DungeonMonster_61
+  - first:
+      213: 5296931849577038302
+    second: DungeonMonster_62
+  - first:
+      213: -3144318858362468296
+    second: DungeonMonster_63
+  - first:
+      213: 2210012292765880582
+    second: DungeonMonster_64
+  - first:
+      213: -8108735251543379995
+    second: DungeonMonster_65
+  - first:
+      213: -3240953518168451336
+    second: DungeonMonster_66
+  - first:
+      213: -1384464231495962793
+    second: DungeonMonster_67
+  - first:
+      213: 2963031899844163313
+    second: DungeonMonster_68
+  - first:
+      213: 4676569754070974821
+    second: DungeonMonster_69
+  - first:
+      213: 8916103651309482948
+    second: DungeonMonster_70
+  - first:
+      213: -3560414541169636427
+    second: DungeonMonster_71
+  - first:
+      213: 7811331739466801531
+    second: DungeonMonster_72
+  - first:
+      213: 5014629808442175937
+    second: DungeonMonster_73
+  - first:
+      213: -1069976755498157536
+    second: DungeonMonster_74
+  - first:
+      213: 1451323063034362216
+    second: DungeonMonster_75
+  - first:
+      213: -8760621251057046184
+    second: DungeonMonster_76
+  - first:
+      213: 8002772650509207131
+    second: DungeonMonster_77
+  - first:
+      213: -498285043631580669
+    second: DungeonMonster_78
+  - first:
+      213: 1670130873032791009
+    second: DungeonMonster_79
+  - first:
+      213: 5743171429147350633
+    second: DungeonMonster_80
+  - first:
+      213: 1606950089214313070
+    second: DungeonMonster_81
+  - first:
+      213: -4154600803108377281
+    second: DungeonMonster_82
+  - first:
+      213: -5815686258908799157
+    second: DungeonMonster_83
+  - first:
+      213: 3105252463523196286
+    second: DungeonMonster_84
+  - first:
+      213: 6942730297489804818
+    second: DungeonMonster_85
+  - first:
+      213: -8156088364909882069
+    second: DungeonMonster_86
+  - first:
+      213: -416198577329205724
+    second: DungeonMonster_87
+  - first:
+      213: 5499986786942362660
+    second: DungeonMonster_88
+  - first:
+      213: -266726528528639943
+    second: DungeonMonster_89
+  - first:
+      213: 7984776835855012773
+    second: DungeonMonster_90
+  - first:
+      213: -6173055105977704351
+    second: DungeonMonster_91
+  - first:
+      213: 1317955775572358807
+    second: DungeonMonster_92
+  - first:
+      213: -1544935739141777265
+    second: DungeonMonster_93
+  - first:
+      213: -6967280224744847556
+    second: DungeonMonster_94
+  - first:
+      213: -7448751630782997428
+    second: DungeonMonster_95
+  - first:
+      213: -8744507824664361668
+    second: DungeonMonster_96
+  - first:
+      213: 6747475358102008607
+    second: DungeonMonster_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DungeonMonster_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 381
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f19b1ee5dc2100800000000000000
+      internalID: 84677711654679434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 381
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd63efc7d5275b0800000000000000
+      internalID: -5372128614077243430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 381
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71565592456737c40800000000000000
+      internalID: 5508876873047041303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 381
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2eab820f8064a50800000000000000
+      internalID: 6504896539351769798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 382
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d3c484db53243c0800000000000000
+      internalID: -4376876800772653760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 383
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7a8b923a91e740800000000000000
+      internalID: 5179590588601367920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 381
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42491bca9380cfc70800000000000000
+      internalID: 9006082398637626404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b71dee808a233020800000000000000
+      internalID: 2320244964668020665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 365
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac9c258def175990800000000000000
+      internalID: -7397408757930746714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 365
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4775037a5a3439a00800000000000000
+      internalID: 762027140709373812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 365
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b78fe2918b85d10800000000000000
+      internalID: 2114642443352177455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 365
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0e9fca7b0b98960800000000000000
+      internalID: 7604803748719354105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 366
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1580e371abb06f370800000000000000
+      internalID: 8355879052514297937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 367
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad3588137e36b40800000000000000
+      internalID: 5432439775465560695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 365
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b7be3486b38480800000000000000
+      internalID: -8898067759649803510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 365
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496a037e4803cb3c0800000000000000
+      internalID: -4342542593319459180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 349
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b96cec81c9bc3c0800000000000000
+      internalID: -4338202185679070363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 349
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216299ced3c0559f0800000000000000
+      internalID: -480464325143091694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 349
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fb05114420f36b0800000000000000
+      internalID: -5314526543902359728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 349
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0590dfa27b82680800000000000000
+      internalID: -8779566078297026330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 350
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f0a04525e60c80800000000000000
+      internalID: -8356740110378535488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa1201e6dc88b20800000000000000
+      internalID: 3136983013064288806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 349
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cbb299cae1725d0800000000000000
+      internalID: -3087465292886197150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 349
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2920464985572de0800000000000000
+      internalID: -1358022714551424726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 317
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a232cb5647add120800000000000000
+      internalID: 2440290493733679776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 317
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b04584ef3190a50800000000000000
+      internalID: 6487738721059998614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 317
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de39d4ad55ab24f80800000000000000
+      internalID: -8123725899925449747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 317
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dddab3b474092be0800000000000000
+      internalID: -1501664101473264172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 318
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a45747b25ce4a260800000000000000
+      internalID: 7108065951903863971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 320
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f07fa7a20507560800000000000000
+      internalID: 7309430338604175104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 318
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f3bcac264bdc950800000000000000
+      internalID: 6471026576003383081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 317
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4f227d3215b2c0800000000000000
+      internalID: -4416603804448895346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 285
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b951a3ec55c160800000000000000
+      internalID: 7045139324825352346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 285
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c5103d5728695f0800000000000000
+      internalID: -750268845347742608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 285
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8259c1fd93e5b00800000000000000
+      internalID: 819155812648036526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 285
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bebbc22ece843920800000000000000
+      internalID: 2969155070342184626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 285
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b5e97a969aea60800000000000000
+      internalID: 7704135702784881527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 285
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78dc27e17ed3a80800000000000000
+      internalID: -8485372004935038992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 253
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c15200b5a009c0800000000000000
+      internalID: -3962985496714297285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 253
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dcb8a89c2635340800000000000000
+      internalID: 4851329841360522552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 253
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be2c9917d0a7a9b0800000000000000
+      internalID: -5068906009874125128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 253
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7183861cceacb50800000000000000
+      internalID: 6614359318168344505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 253
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb233a12356040dc0800000000000000
+      internalID: -3673804441911086402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 253
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f054ac6f5b45a20c0800000000000000
+      internalID: -4599770928899275505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 253
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a735fe7d3031e90800000000000000
+      internalID: -7056291965191357900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71be04411ef38f70800000000000000
+      internalID: 9188467014875656572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 221
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e5e1b7532454d10800000000000000
+      internalID: 2109164797959233067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 221
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d70f7d2dc7ff90800000000000000
+      internalID: -6919836707143036764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 221
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959afcf9ee66c0a90800000000000000
+      internalID: -7346383717078685351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 221
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789d8151428db170800000000000000
+      internalID: 8195850113936889983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_50
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 222
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a5d6edca737a360800000000000000
+      internalID: 7180769346471156374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 223
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae06b37f61a2a8730800000000000000
+      internalID: 4002057496997617898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 221
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3b5ed41b569940800000000000000
+      internalID: 5302525756463332424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 221
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840fb38ab9cad9b0800000000000000
+      internalID: -5054505828858526578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 189
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256edf9fe8dd94d50800000000000000
+      internalID: 6722147524976436818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 189
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30354a203f32d20800000000000000
+      internalID: 3252710548564018136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 189
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d19fa484e92ab0800000000000000
+      internalID: -5032239850077432478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 189
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c92cbbb4bd05ca0800000000000000
+      internalID: -6030078782729970533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 190
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5ae1acc998178e0800000000000000
+      internalID: -1697424278043056661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_59
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 191
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa4c9a396405030800000000000000
+      internalID: 3481360111979768487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 189
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b8bbf01c6d9d40800000000000000
+      internalID: 5592745132462486815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 189
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb3952f54819a510800000000000000
+      internalID: 1560805434558331874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 157
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10e7de37b728940800000000000000
+      internalID: 5296931849577038302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 157
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8384eba58a22d54d0800000000000000
+      internalID: -3144318858362468296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 157
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6019e8b987a8bae10800000000000000
+      internalID: 2210012292765880582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 157
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa11a204cf77f80800000000000000
+      internalID: -8108735251543379995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 158
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6540052f1d503d0800000000000000
+      internalID: -3240953518168451336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_67
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fe27ddd1569cce0800000000000000
+      internalID: -1384464231495962793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_68
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 157
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6bc5860ddce1920800000000000000
+      internalID: 2963031899844163313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 157
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5618cbee96386e040800000000000000
+      internalID: 4676569754070974821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c37dd4080d5cbb70800000000000000
+      internalID: 8916103651309482948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_71
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 125
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbc274b6ddd69ec0800000000000000
+      internalID: -3560414541169636427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_72
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 125
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7127a1b4dc676c60800000000000000
+      internalID: 7811331739466801531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 125
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f74cfd3b879540800000000000000
+      internalID: 5014629808442175937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_74
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 93
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7b925fcda621f0800000000000000
+      internalID: -1069976755498157536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 93
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869be7ae2a2242410800000000000000
+      internalID: 1451323063034362216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_76
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85da10f43650c6680800000000000000
+      internalID: -8760621251057046184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 93
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5600db335f8f0f60800000000000000
+      internalID: 8002772650509207131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_78
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 94
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1371946cb519f0800000000000000
+      internalID: -498285043631580669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 95
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e358872e2f7d2710800000000000000
+      internalID: 1670130873032791009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_80
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 93
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96610867cf7d3bf40800000000000000
+      internalID: 5743171429147350633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 93
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c66797980d4610800000000000000
+      internalID: 1606950089214313070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d2c23e494e756c0800000000000000
+      internalID: -4154600803108377281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_83
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 61
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fde9c09288a4fa0800000000000000
+      internalID: -5815686258908799157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_84
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 61
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de43ac9a2181b20800000000000000
+      internalID: 3105252463523196286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 61
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec831eb68895060800000000000000
+      internalID: 6942730297489804818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 62
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2599dc48d0cfce80800000000000000
+      internalID: -8156088364909882069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_87
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 63
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e054a599d593af0800000000000000
+      internalID: -416198577329205724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 61
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424aa01b7d0e35c40800000000000000
+      internalID: 5499986786942362660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 61
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93890eea2a56c4cf0800000000000000
+      internalID: -266726528528639943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3d7ef1a30afce60800000000000000
+      internalID: 7984776835855012773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160a94d5617e45aa0800000000000000
+      internalID: -6173055105977704351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7963aa88bc15a4210800000000000000
+      internalID: 1317955775572358807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_93
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 29
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8816a371294f8ae0800000000000000
+      internalID: -1544935739141777265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_94
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 30
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ca71cc8f3f4f90800000000000000
+      internalID: -6967280224744847556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_95
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 31
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c51136bd7b0a890800000000000000
+      internalID: -7448751630782997428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_96
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 29
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c14fb67445a680800000000000000
+      internalID: -8744507824664361668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonMonster_97
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f133f5aa619d3ad50800000000000000
+      internalID: 6747475358102008607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
