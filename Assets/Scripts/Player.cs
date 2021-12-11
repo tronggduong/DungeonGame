@@ -44,7 +44,6 @@ public class Player : MovingManager
     protected override void Death()
     {
         GameManager.instance.deadAnimator.SetBool("check", true);
-
     }
     /*
     //Save your health when you reopen the game 

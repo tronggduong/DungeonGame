@@ -5,8 +5,8 @@ using UnityEngine;
 public class Weapon : Collidable
 {
     // damage to the monster
-    public int[] dmgPoint = { 1, 2, 3 };
-    public float[] pushBack = { 5.0f, 5.1f, 5.2f };
+    private int[] dmgPoint = { 1, 3, 5, 7, 10 };
+    private float[] pushBack = { 4.0f, 4.5f, 5f, 5.5f, 5.8f }; 
 
     // upgrade weapon
     public int weaponLevel = 0;

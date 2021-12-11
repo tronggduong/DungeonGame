@@ -22,7 +22,12 @@ public class Chest : Collectable
             //render new sprite after interact with player
             items.sprite = empty;
             GameManager.instance.money += moneyAmount;
-            GameManager.instance.ShowText("+ " + moneyAmount + " money", 40, Color.yellow, transform.position, Vector3.up * 100, 1.0f);
+            GameManager.instance.ShowText("+ " + moneyAmount + " money",
+                                          40,
+                                          Color.yellow,
+                                          transform.position,
+                                          Vector3.up * 100,
+                                          1.0f);
         }
     }
 }

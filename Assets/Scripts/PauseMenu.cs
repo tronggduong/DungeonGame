@@ -6,16 +6,27 @@ using UnityEngine.SceneManagement;
 public class PauseMenu : MonoBehaviour
 {
     private Animator pauseAnimator;
+    private AudioSource audioSource;
+    private float musicVolume = 1f;
     private void Start()
     {
         pauseAnimator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
-    public void Pause()
+    private void Update()
+    {
+        audioSource.volume = musicVolume;
+    }
+    public void SetVolume(float volume)
+    {
+        musicVolume = volume;
+    }
+    public void GamePause()
     {
         Time.timeScale = 0;
         pauseAnimator.SetTrigger("Pause");
     }
-    public void Unpause()
+    public void GameUnpause()
     {
         Time.timeScale = 1;
         pauseAnimator.SetTrigger("Unpause");

@@ -30,10 +30,10 @@ public abstract class MovingManager : Fighter
 
         // add push back
         moveDelta += pushForce;
-        // to reduce push force base on push recovery 
+        // to reduce push force base on push recovery
         pushForce = Vector3.Lerp(pushForce,Vector3.zero,pushRecovery);
 
-        // make a box in front of player to check first, if no collider -> can move
+        // make a box in front of player to check first, if no collider -> can move horrizontal
         hit = Physics2D.BoxCast(transform.position,
                                 boxCollider.size,
                                 0,
@@ -47,7 +47,7 @@ public abstract class MovingManager : Fighter
             transform.Translate(moveDelta.x * Time.deltaTime, 0, 0);
         }
 
-        // make a box in front of player to check first, if no collider -> can move
+        // make a box in front of player to check first, if no collider -> can move vertical
         hit = Physics2D.BoxCast(transform.position,
                                 boxCollider.size,
                                 0,
